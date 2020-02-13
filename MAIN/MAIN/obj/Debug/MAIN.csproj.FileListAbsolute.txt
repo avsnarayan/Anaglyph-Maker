@@ -1,0 +1,44 @@
+C:\JA\Źródła\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\JA\Źródła\MAIN\MAIN\bin\Debug\MAIN.exe
+C:\JA\Źródła\MAIN\MAIN\bin\Debug\MAIN.pdb
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.csprojAssemblyReference.cache
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MainWindow.g.cs
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\App.g.cs
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN_MarkupCompile.cache
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN_MarkupCompile.lref
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MainWindow.baml
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.g.resources
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.cache
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.csproj.CoreCompileInputs.cache
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.pdb
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\bin\Debug\MAIN.exe.config
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\bin\Debug\MAIN.exe
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\bin\Debug\MAIN.pdb
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.csprojAssemblyReference.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MainWindow.g.cs
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\App.g.cs
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN_MarkupCompile.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN_MarkupCompile.lref
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MainWindow.baml
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.g.resources
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.csproj.CoreCompileInputs.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.exe
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\Debug\MAIN.pdb
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\bin\Debug\MAIN.exe
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\bin\Debug\MAIN.pdb
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN_MarkupCompile.cache
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN_MarkupCompile.lref
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN.g.resources
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\Debug\MAIN.pdb

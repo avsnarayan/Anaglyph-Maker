@@ -1,0 +1,101 @@
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.g.cs
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\App.g.cs
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.baml
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.CoreCompileInputs.cache
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+D:\PLIKI\REPOZYTORIUM\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.pdb
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+C:\Users\user\Desktop\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.pdb
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.g.cs
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\App.g.cs
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.baml
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.CoreCompileInputs.cache
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+E:\UCZELNIA\JA KOREKCJA JASNOSCI\JA projj\JA\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.baml
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MainWindow.baml
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\JA czyjes stuffy\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\Anaglyph Maker Project v3\MAIN\MAIN\obj\x64\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe.config
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\bin\x64\Debug\MAIN.pdb
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.cache
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN_MarkupCompile.lref
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.g.resources
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.Properties.Resources.resources
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.exe
+C:\Users\User\Desktop\AnaglyphMaker JA Project\Źródła\MAIN\MAIN\obj\x64\Debug\MAIN.pdb

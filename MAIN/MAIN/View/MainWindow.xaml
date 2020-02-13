@@ -1,0 +1,46 @@
+﻿<Window x:Class="MAIN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MAIN"
+        mc:Ignorable="d"
+        Title="Anaglyph Maker" Height="370" Width="1000">
+    <Grid>
+        <GroupBox Name="groupBoxLeftImage" Header="Left image" HorizontalAlignment="Left" Height="170" Margin="10,10,0,0" VerticalAlignment="Top" Width="170"/>
+        <Image Name="pictureBoxLeft"  Height="133" Margin="27,35,830,0" VerticalAlignment="Top"/>
+        <GroupBox x:Name="groupBoxLeftImage_Copy" Header="Right image" HorizontalAlignment="Left" Height="170" Margin="199,10,0,0" VerticalAlignment="Top" Width="170"/>
+        <Image Name="pictureBoxRight"  Height="133" Margin="216,35,638,0" VerticalAlignment="Top"/>
+        <GroupBox Header="Processor information" HorizontalAlignment="Left" Height="100" Margin="129,226,0,0" VerticalAlignment="Top" Width="225">
+            <Label Name="threadsLabel" Content="Recommended number of threads:" HorizontalAlignment="Left" Margin="0,22,-2,0" VerticalAlignment="Top" RenderTransformOrigin="-0.342,-0.538" Height="34" Width="215"/>
+        </GroupBox>
+        <GroupBox Header="Threads" HorizontalAlignment="Left" Height="100" Margin="359,226,0,0" VerticalAlignment="Top" Width="253"/>
+        <Slider Name="threadsBar" HorizontalAlignment="Left" Margin="383,273,0,0" VerticalAlignment="Top" Width="149" ValueChanged="threadsBar_ValueChanged"/>
+        <TextBox Name="textThreads" HorizontalAlignment="Left" Height="23" Margin="555,273,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="26" TextChanged="textThreads_TextChanged"/>
+        <GroupBox x:Name="groupBoxLeftImage_Copy1" Header="Anaglyph image" HorizontalAlignment="Left" Height="324" Margin="632,10,0,0" VerticalAlignment="Top" Width="350"/>
+        <Image Name="pictureBoxAnaglyph" Height="275" Margin="649,35,27,0" VerticalAlignment="Top"/>
+        <Button Name="buttonLoadLeftImage" Content="Load left image" HorizontalAlignment="Left" Margin="10,194,0,0" VerticalAlignment="Top" Width="170" Click="OnClickButtonLoadLeftImage"/>
+        <Button Name="buttonLoadRightImage" Content="Load right image" HorizontalAlignment="Left" Margin="199,194,0,0" VerticalAlignment="Top" Width="170" Click="OnClickButtonLoadRightImage"/>
+        <GroupBox Header="DLL" HorizontalAlignment="Left" Height="100" Margin="10,226,0,0" VerticalAlignment="Top" Width="100">
+            <StackPanel Margin="20">
+                <RadioButton Name="radioC" Content="C++" />
+                <RadioButton Name="radioAsm" Content="Asm" />
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Anaglyph" HorizontalAlignment="Left" Height="116" Margin="383,10,0,0" VerticalAlignment="Top" Width="229">
+            <StackPanel Margin="10">
+                <RadioButton Name="radioTrue"  Content="True"/>
+                <RadioButton Name="radioGray" Content="Gray" />
+                <RadioButton Name="radioColor" Content="Color" />
+                <RadioButton Name="radioHalfColor" Content="Half color" />
+                <RadioButton Name="radioOptimized" Content="Optimized" />
+            </StackPanel>
+        </GroupBox>
+        <Button Name="buttonGenerateAnaglyph" Content="Generate anaglyph" HorizontalAlignment="Left" Margin="411,194,0,0" VerticalAlignment="Top" Width="170" Click="OnClickButtonGenerateAnaglyph"/>
+        <GroupBox Header="Images conversion history" HorizontalAlignment="Left" Height="48" Margin="387,132,0,0" VerticalAlignment="Top" Width="225"/>
+        <Label Name="historyLabel" Content="Time [ms]" HorizontalAlignment="Left" Margin="397,154,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
